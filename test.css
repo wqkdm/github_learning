@@ -1,0 +1,8 @@
+.test-class {
+  font-size: 12px;
+}
+
+.test-class--b {
+  font-size: 13px;
+  color: pink;
+}
