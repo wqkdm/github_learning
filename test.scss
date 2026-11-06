@@ -1,8 +1,17 @@
 .test-class {
     font-size: 8px;
+    font-weight: 700;
 }
 
 .test-class--b {
-    color: purple;
-    background: blue;
+    font-size: 10px;
+    font-weight: 700;
+    color: lightskyblue;
+    line-height: 12;
+    background: pink;
+
+}
+
+.test-class--c {
+    font-size: 10;
 }
