@@ -8,4 +8,9 @@
   font-weight: 700;
   color: lightskyblue;
   line-height: 12;
+  background: pink;
+}
+
+.test-class--c {
+  font-size: 10;
 }
