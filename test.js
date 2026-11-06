@@ -3,6 +3,8 @@ const testRun = () => {
     const b = 5
     const c = a + b
     console.log(a)
+    // const a = "asdfasf"
+    // console.log(a)
 }
 
 testRun()
