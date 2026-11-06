@@ -7,10 +7,10 @@
   font-size: 1px;
   font-weight: 700;
   color: 0;
-  line-height: 12;
-  background: red;
+  line-height: 13;
+  background: blue;
 }
 
 .test-class--c {
-  font-size: 1;
+  font-size: 2;
 }
