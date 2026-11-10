@@ -6,11 +6,10 @@
 .test-class--b {
   font-size: 10px;
   font-weight: 700;
-  color: lightskyblue;
-  line-height: 12;
-  background: pink;
+  line-height: 13;
+  background: blue;
 }
 
 .test-class--c {
-  font-size: 10;
+  font-size: 2;
 }
