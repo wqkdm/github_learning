@@ -4,10 +4,11 @@
 }
 
 .test-class--b {
-    font-size: 1px;
+
+    font-size: 10px;
     font-weight: 700;
-    color: blue($color: #000000);
-    line-height: 13;
+    // color: blue($color: #000000);
+    // line-height: 13;
     background: blue;
 }
 

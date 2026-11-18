@@ -4,9 +4,8 @@
 }
 
 .test-class--b {
-  font-size: 1px;
+  font-size: 10px;
   font-weight: 700;
-  color: 0;
   line-height: 13;
   background: blue;
 }
